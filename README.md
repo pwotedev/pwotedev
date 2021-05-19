@@ -1,7 +1,7 @@
 ### Hi there, I am Ajay! 👋
 
 #### Who Am I?
-I am a fifteen-year-old `Full Stack Developer` from Minnesota (🥶) that loves to develop software, applications, work and innovate on things that I am passionate about. 
+I am a `Full Stack Developer` from Minnesota (🥶) that loves to develop software, applications, work and innovate on things that I am passionate about. 
 
 The main tools and languages I use are HTML, CSS, Javascript, GoLang, Python, NodeJS, Typescript, NextJS, Electron, React, jQuery, Angular, MongoDB, MySQL, Git, Cosmos, Microsoft Azure Cloud Infrastructure, and Amazon AWS. I also love exploring the realm of artificial intelligence and machine learning!
 
